@@ -1,6 +1,6 @@
 {
   "name": "cra-template-minimum",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "CRA with eslint, prettier, testing library and proptypes",
   "main": "template.json",
   "repository": {
